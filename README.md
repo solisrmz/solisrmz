@@ -39,4 +39,3 @@ Hi everybody! I'm José, i have a degree in computer technologies and i like web
 - Website: coming soon
 <br>
 <br>
-From Juel07 (https://github.com/solisrmz)
