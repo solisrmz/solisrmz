@@ -34,7 +34,7 @@ Hi everybody! I'm José, i have a degree in computer technologies and i like web
 - Study a master's degree in AI
 
 ## Some of my Github Public Stats
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=samujjwaal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/solisrmz)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=solisrmz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/solisrmz)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=solisrmz&color=blue)
 
