@@ -33,8 +33,10 @@ Hi everybody! I'm José, i have a degree in computer technologies and i like web
 - Become skilled in Angular
 - Study a master's degree in AI
 
-![Profile Views](https://komarev.com/ghpvc/?username=samujjwaal&color=blue)
+## Some of my Github Public Stats
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=samujjwaal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/solisrmz)
 
+![Profile Views](https://komarev.com/ghpvc/?username=solisrmz&color=blue)
 
 ### ☕ Contact
 - LinkedIn: <a href = "https://www.linkedin.com/in/jos%C3%A9-abraham-sol%C3%ADs-ram%C3%ADrez-421aa11a1/">José</a>
